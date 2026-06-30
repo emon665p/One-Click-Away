@@ -1,0 +1,10 @@
+{
+  "/select-date/page": "app/select-date/page.js",
+  "/food-selection/page": "app/food-selection/page.js",
+  "/select-time/page": "app/select-time/page.js",
+  "/welcome/page": "app/welcome/page.js",
+  "/celebration/page": "app/celebration/page.js",
+  "/final-question/page": "app/final-question/page.js",
+  "/story/page": "app/story/page.js",
+  "/choose-vibe/page": "app/choose-vibe/page.js"
+}
